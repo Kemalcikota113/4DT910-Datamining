@@ -2,6 +2,8 @@
 
 Since the solution had to be OS-independent i had created two ways of running and testing the submission in case there are issues with python notebooks, i will go through a small tutorial for both.
 
+There is also a fully rendered and read-only version of the solution in A1.pdf which also serves as the report for this submission.
+
 ## 1. Python Notebook (recommended)
 
 1. Inside the VSCode editor, open the A1.ipynb file and press the "Run All" button and all code cells should run and the markdown cells should render.
